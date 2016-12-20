@@ -7,30 +7,5 @@ alert (resultado);
 
 
 
-/*
- * Complete the function below.
- */
-function promedio(num1, num2, num3) {
-    var suma = num1 + num2 +num3;
-    var promedio = suma/3;
-    return promedio;
-
-}
-
-function sueldoSemanal(horas, pago) {
-    return horas * pago;
-    
-    
-
-
-}
-
-/*
- * Complete the function below.
- */
-function costoLlamada(tiempo, costoMinuto) {
-return tiempo * costoMinuto;
-
-}
 
 
